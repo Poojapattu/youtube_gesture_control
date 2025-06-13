@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/03739a09-091c-4e84-97b1-4e3f78ebd07d)
 # youtube_gesture_control
 YouTube Gesture Control lets you manage YouTube videos using hand gestures via webcam. Using OpenCV and MediaPipe, it detects gestures to play, pause, skip, and adjust volume—offering a touch-free, intuitive way to control videos in real-time on any modern browser.
 # YouTube Hand Gesture Control
